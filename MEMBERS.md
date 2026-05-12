@@ -7,12 +7,12 @@
 
 ## 指导委员会 / Council
 
-*首届指导委员会将在 Phase 0 期间从正式成员中选举产生。*
-*The first Council will be elected from the Member roster during Phase 0.*
+*首届正式选举将在 Phase 0 期间从正式成员中产生。在此之前，由创始成员临时承担。*
+*The first elected Council will be formed during Phase 0. Until then, founding members serve in interim capacity.*
 
 | GitHub | 姓名 / Name | 国家/地区 · Country | 任期 · Term | 工作组 · Working Group |
 |---|---|---|---|---|
-| _待定 / TBD_ | | | | |
+| [@leader402](https://github.com/leader402) | Zhang Zhengqian / 张正乾 | China · 中国 | Interim · 2026-05-13 → first election | All (Founder) |
 
 ---
 
@@ -20,7 +20,7 @@
 
 | GitHub | 角色 · Role | 任期 · Term |
 |---|---|---|
-| _待定 / TBD_ | | |
+| [@leader402](https://github.com/leader402) | Interim Secretary · 临时秘书 | 2026-05-13 → 2026-11-13 |
 
 ---
 
@@ -30,7 +30,7 @@
 
 | # | GitHub | 显示名 · Display Name | 国家/地区 · Country | 工作组 · Working Group | 加入日期 · Joined |
 |---|---|---|---|---|---|
-| _此表将由首位创始成员开启 / This table will be opened by the founding member._ | | | | | |
+| 1 | [@leader402](https://github.com/leader402) | Zhang Zhengqian / 张正乾 | China · 中国 | All (Founder) | 2026-05-13 |
 
 ---
 
@@ -52,7 +52,7 @@ Nominated by the Council, confirmed by the community.
 
 | GitHub | 维护范围 · Scope | 任命日期 · Since |
 |---|---|---|
-| _待定 / TBD_ | | |
+| [@leader402](https://github.com/leader402) | Repo & Charter · 仓库与章程 | 2026-05-13 |
 
 ---
 
