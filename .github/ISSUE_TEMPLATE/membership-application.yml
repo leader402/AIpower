@@ -1,0 +1,65 @@
+name: 入会咨询 / Membership Inquiry
+description: 询问加入 AIpower 的流程。正式入会请提交 PR，见 CONTRIBUTING.md。/ Ask about joining. Formal application is by PR, see CONTRIBUTING.md.
+title: "[join-inquiry] "
+labels: ["membership", "question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 提示 / Note
+        正式入会请按照 [CONTRIBUTING.md](../CONTRIBUTING.md) 提交 Pull Request。
+        本 Issue 仅用于提问。
+
+        Formal applications go through a Pull Request — see [CONTRIBUTING.md](../CONTRIBUTING.md).
+        This Issue is only for questions.
+
+  - type: input
+    id: country
+    attributes:
+      label: 国家/地区 · Country / Region
+      placeholder: e.g. India / 印度
+    validations:
+      required: true
+
+  - type: dropdown
+    id: working-group
+    attributes:
+      label: 你感兴趣的工作组 · Working group you're interested in
+      multiple: true
+      options:
+        - Advocacy / 倡导
+        - Openness / 开放
+        - Education / 教育
+        - Access / 接入
+        - Watch / 监督
+        - Not sure yet / 暂未确定
+    validations:
+      required: true
+
+  - type: textarea
+    id: motivation
+    attributes:
+      label: 你为什么想加入？· Why do you want to join?
+      description: 一段话即可，中英文都行。/ A short paragraph, in Chinese or English.
+      placeholder: |
+        例：我在 XX 国，因为支付问题用不上 ChatGPT 高级版，想推动这件事被解决…
+        e.g. I'm based in country X. I can't access frontier AI due to payment issues and want to help fix this.
+    validations:
+      required: true
+
+  - type: textarea
+    id: questions
+    attributes:
+      label: 你的具体问题 · Your specific questions
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: read
+    attributes:
+      label: 确认 / Confirmation
+      options:
+        - label: 我已阅读 README.md、MANIFESTO.md、CHARTER.md。/ I have read README.md, MANIFESTO.md, and CHARTER.md.
+          required: true
+        - label: 我同意《行为准则》。/ I agree to the Code of Conduct.
+          required: true

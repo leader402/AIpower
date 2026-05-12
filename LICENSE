@@ -1,0 +1,38 @@
+AIpower charter documents — License / 许可协议
+
+All documentation, charter texts, manifestos, and other written materials in
+this repository are licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0).
+
+本仓库中所有文档、章程文本、宣言及其他书面材料，
+采用知识共享 署名-相同方式共享 4.0 国际许可协议（CC BY-SA 4.0）发布。
+
+You are free to:
+  * Share — copy and redistribute the material in any medium or format
+  * Adapt — remix, transform, and build upon the material for any purpose,
+    even commercially
+
+Under the following terms:
+  * Attribution — You must give appropriate credit to AIpower,
+    provide a link to the license, and indicate if changes were made.
+  * ShareAlike — If you remix, transform, or build upon the material,
+    you must distribute your contributions under the same license.
+
+Full legal text:
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+许可协议全文：
+  https://creativecommons.org/licenses/by-sa/4.0/legalcode.zh-Hans
+
+------------------------------------------------------------------------------
+
+NOTE FOR FUTURE CODE / 关于未来代码的说明
+
+When AIpower working groups publish code (e.g. access tools, evaluation
+scripts, mirror infrastructure), each such sub-project may carry its own
+OSI-approved open-source license (recommended: Apache-2.0 or MIT) declared
+in that sub-project's own LICENSE file.
+
+当 AIpower 工作组发布代码（如访问工具、评测脚本、镜像基础设施）时，
+每个子项目可在其自身 LICENSE 文件中声明独立的、OSI 认可的开源许可协议
+（推荐：Apache-2.0 或 MIT）。
